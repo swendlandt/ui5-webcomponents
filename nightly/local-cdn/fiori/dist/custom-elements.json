@@ -8513,13 +8513,19 @@
     },
     {
       "kind": "javascript-module",
+      "path": "dist/illustrations/AllIllustrations.js",
+      "declarations": [],
+      "exports": []
+    },
+    {
+      "kind": "javascript-module",
       "path": "dist/fcl-utils/FCLLayout.js",
       "declarations": [],
       "exports": []
     },
     {
       "kind": "javascript-module",
-      "path": "dist/illustrations/AllIllustrations.js",
+      "path": "dist/upload-utils/UploadCollectionBodyDnD.js",
       "declarations": [],
       "exports": []
     },
@@ -8852,12 +8858,6 @@
           }
         }
       ]
-    },
-    {
-      "kind": "javascript-module",
-      "path": "dist/upload-utils/UploadCollectionBodyDnD.js",
-      "declarations": [],
-      "exports": []
     }
   ]
 }
